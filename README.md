@@ -2,6 +2,22 @@
 
 下面右边视频是animatediff v3根据左图作为ref图像生成的视频
 
+<table> 
+ <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>*0.8</p><img src="https://github.com/vancyland/boat/assets/127710303/c1e9a93e-99b0-4916-98f4-2ce77a3af816" width="100%"></td> </tr>
+   <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>*0.9</p><img src="https://github.com/vancyland/boat/assets/127710303/bdf2c0d5-e4e5-4861-a635-38e762d583e5" width="100%"></td> </tr>  
+   <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>*0.95</p><img src="https://github.com/vancyland/boat/assets/127710303/a4f3b967-75b7-4cbc-b8a9-272ff371d97e" width="100%"></td> </tr>    
+    <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>*1.0</p><img src="https://github.com/vancyland/boat/assets/127710303/798812ef-5bf5-414f-88fa-07f655f655e9" width="100%"></td> </tr> 
+  <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>*1.05</p><img src="https://github.com/vancyland/boat/assets/127710303/617fc5d6-a47c-47d4-b1bc-3beebce785c4" width="100%"></td> </tr>  
+   <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>*1.1</p><img src="https://github.com/vancyland/boat/assets/127710303/d06acc5a-4e87-4f42-b0ef-7d9dc3053ffb" width="100%"></td> </tr>  
+ <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>*1.2</p><img src="https://github.com/vancyland/boat/assets/127710303/69f1e5ff-324f-43c4-a43e-69351b8aca27" width="100%"></td> </tr>
+   <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>*1.25</p><img src="https://github.com/vancyland/boat/assets/127710303/0f0e9579-f82b-4c8e-8641-02ab3f62d59e" width="100%"></td> </tr>
+</table>
+
+.
+
+.
+
+.
 
 <table> 
   <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>original</p><img src="https://github.com/vancyland/boat/assets/127710303/798812ef-5bf5-414f-88fa-07f655f655e9" width="100%"></td> </tr> 
@@ -10,6 +26,12 @@
     <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>0.9原+0.1方差5</p><img src="https://github.com/vancyland/boat/assets/127710303/20e32edb-8dba-4dbd-83c3-1a2670cdf196" width="100%"></td> </tr> 
   <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>0.8原+0.2方差5</p><img src="https://github.com/vancyland/boat/assets/127710303/cedb53d4-d206-4b56-9a64-558f7aeafa24" width="100%"></td> </tr>
 </table>
+
+.
+
+.
+
+.
 
 ×方差
 <table> 
@@ -25,16 +47,6 @@
 </table>
 
 ×
-
-<table> 
- <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>*0.8</p><img src="https://github.com/vancyland/boat/assets/127710303/c1e9a93e-99b0-4916-98f4-2ce77a3af816" width="100%"></td> </tr>
-   <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>*0.9</p><img src="https://github.com/vancyland/boat/assets/127710303/bdf2c0d5-e4e5-4861-a635-38e762d583e5" width="100%"></td> </tr>  
-    <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>*1.0</p><img src="https://github.com/vancyland/boat/assets/127710303/798812ef-5bf5-414f-88fa-07f655f655e9" width="100%"></td> </tr> 
-  <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>*1.05</p><img src="https://github.com/vancyland/boat/assets/127710303/617fc5d6-a47c-47d4-b1bc-3beebce785c4" width="100%"></td> </tr>  
-   <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>*1.1</p><img src="https://github.com/vancyland/boat/assets/127710303/d06acc5a-4e87-4f42-b0ef-7d9dc3053ffb" width="100%"></td> </tr>  
- <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>*1.2</p><img src="https://github.com/vancyland/boat/assets/127710303/69f1e5ff-324f-43c4-a43e-69351b8aca27" width="100%"></td> </tr>
-</table>
-
 
 
 
