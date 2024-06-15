@@ -15,9 +15,17 @@
 
 .
 
-.
+*1.1*方差20
+![sample](https://github.com/vancyland/boat/assets/127710303/c864a95f-539b-4369-8bd5-2ecf6d7bdf3a)
 
 .
+
+*1.1*方差35
+![sample](https://github.com/vancyland/boat/assets/127710303/69d1de4c-bccd-4434-9bdb-06198dedb3fd)
+
+.
+
+
 
 <table> 
   <tr> <td><img src="https://github.com/users/vancyland/projects/1/assets/127710303/70f74ee3-ec0f-488a-a8ca-1855f50eea5c" width="100%"></td> <td align="center"><p>original</p><img src="https://github.com/vancyland/boat/assets/127710303/798812ef-5bf5-414f-88fa-07f655f655e9" width="100%"></td> </tr> 
